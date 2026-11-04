@@ -1,0 +1,18 @@
+[
+  {
+    "project_id": 1,
+    "project_name": "Power BI Dashboard Development",
+    "requirement": "Create KPI dashboard for operational reporting",
+    "expected_output": "Interactive Power BI dashboard",
+    "quality_score": 5,
+    "validated": true
+  },
+  {
+    "project_id": 2,
+    "project_name": "SQL Data Analysis",
+    "requirement": "Analyze business performance data",
+    "expected_output": "Trend analysis report",
+    "quality_score": 5,
+    "validated": true
+  }
+]
