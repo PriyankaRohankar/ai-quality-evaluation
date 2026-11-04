@@ -1,0 +1,4 @@
+Prompt,Response,Accuracy,Completeness,HallucinationRisk,OverallScore
+Data Analyst Skills,Power BI SQL Excel,5,5,1,5
+What is Power BI,Microsoft BI Tool,5,4,1,4
+Python Uses,Programming and Analytics,5,5,1,5
